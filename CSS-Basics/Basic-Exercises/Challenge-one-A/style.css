@@ -1,0 +1,26 @@
+body{
+    background-color: rgb(238, 177, 124);
+}
+
+body div{
+    background-color: lemonchiffon;
+    text-align: center;
+    margin: 0px 200px;
+}
+
+div#wrap{
+    border: 5px dashed;
+}
+
+h1{
+    border-bottom: 5px dashed;
+    padding-bottom: 15px;
+}
+
+li{
+    list-style-type: none;
+}
+
+li:first-letter{
+    font-size: 26px;
+}
