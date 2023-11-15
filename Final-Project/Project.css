@@ -1,0 +1,12 @@
+.photo{
+    background: url(https://variety.com/wp-content/uploads/2022/01/Denzel-4-16x9-1.jpg);
+    background-size: cover;
+    background-position: center;
+    min-height: 600px;
+}
+
+.col{
+    font-family: 'Bree Serif', serif;
+    font-size: larger;
+}
+
