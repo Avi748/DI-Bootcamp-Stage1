@@ -1,0 +1,21 @@
+.one{
+    border: 2px solid blue;
+    background-color: pink;
+    /* display: inline-block; */
+    padding: 32px;
+    margin: 12px;
+
+}
+
+.two{
+    border: 2px solid purple;
+    background-color: rgb(136, 213, 255);
+    margin-bottom: 48px;
+}
+
+.three{
+    border: 2px solid red;
+    background-color: rgb(255, 233, 193);
+    padding: 32px;
+    margin-left: 400px;
+}

@@ -1,0 +1,13 @@
+.button1{
+    border: 5px inherit;
+    background-color: black;
+    color: white;
+    font-size: 26px;
+}
+
+.button2{
+    border: 5px groove;
+    background-color: yellow;
+    color: black;
+    font-size: 26px;
+}
